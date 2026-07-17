@@ -3,7 +3,7 @@ A portfolio of my data analysis projects using Excel, SQL, Python, and Power BI.
 Hello, I'm Onaah Alagi Moses 👋
 Data Analyst | Aspiring Data Scientist
 Welcome to my GitHub portfolio! I am passionate about transforming raw data into meaningful insights that support better decision-making.
-**Skills**
+## Skills
 - Microsoft Excel
 - SQL (MySQL)
 - Python
@@ -12,29 +12,29 @@ Welcome to my GitHub portfolio! I am passionate about transforming raw data into
 - Data Visualization
 - Data Analysis
 - 
-** Projects**
+  ## Projects
 
-**Excel Projects**
+## Excel Projects
 - Sales Dashboard
 - Financial Analysis
 - Data Cleaning
 
-** SQL Projects**
+## SQL Projects
 - Customer Analysis
 - Sales Performance
 - Database Queries
 
-** Python Projects**
+## Python Projects
 - Data Cleaning with Pandas
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 
-** Power BI Projects**
+## Power BI Projects
 - Sales Dashboard
 - Business Performance Dashboard
 - KPI Reports
 
-**Currently Learning**
+## Currently Learning
 - Advanced Python for Data Analysis
 - Machine Learning
 - Git & GitHub
